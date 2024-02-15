@@ -4,13 +4,13 @@ Hey there! I'm Ali, a computer engineering student and backend developer.<br>In 
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="discordapp.com/users/1109837467240120380" target="_blank">
+  <a href="https://discordapp.com/users/1109837467240120380" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="linkedin.com/in/ali-hezarpisheh" target="_blank">
+  <a href="https://linkedin.com/in/ali-hezarpisheh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailito:AliHezarpisheh@outlook.com" target="_blank">
+  <a href="mailto:AliHezarpisheh@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
   <a href="https://t.me/alihezarpisheh" target="_blank">
