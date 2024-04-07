@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Ali, a computer engineering student and backend developer.<br>In the coding trenches with Django and FastAPI, I'm all about turning ideas into functional solutions.<br><br>🚀 I am currently working on fine-tuning my backend wizardry. <br>🤝 I am looking to collaborate on anything that screams excitement in the backend realm.<br>📚 I am currently learning Linux 🐧, Redis 🔄, and constantly honing my backend skills – because the tech world never sleeps. 🌐<br>🔍 I am looking for help with staying on top of the latest backend tech trends. If you've got the lowdown on what's hot, I'm all ears.<br>
+Hey there! I'm Ali, 👨‍💻 Backend Developer with expertise in FastAPI and Python technologies like Django and a background in quality control and software testing, known for my problem-solving prowess and adeptness at crafting effective solutions. 🚀<br><br>🚀 I am currently working on fine-tuning my backend wizardry. <br>🤝 I am looking to collaborate on anything that screams excitement in the backend realm.<br>📚 I am currently learning Linux 🐧, Redis 🔄, and constantly honing my backend skills – because the tech world never sleeps. 🌐<br>🔍 I am looking for help with staying on top of the latest backend tech trends. If you've got the lowdown on what's hot, I'm all ears.<br>
 
 
 ## 🌐 Socials:
