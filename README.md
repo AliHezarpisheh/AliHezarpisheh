@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Ali, 👨‍💻 a Backend Developer with expertise in FastAPI and Python technologies like Pytest and Django. Background in quality control and software testing, showcasing a strong critical thinking process in software development and testing. I am known for my problem-solving prowess and commitment to delivering effective solutions. 🚀<br><br>🚀 I am currently working on fine-tuning my backend wizardry. <br>🤝 I am looking to collaborate on anything that screams excitement in the backend realm.<br>📚 I am currently learning RabbitMQ 🐰, and Celery 👷, and constantly honing my backend skills. 🌐<br>🔍 I am looking for help with staying on top of the latest backend tech trends. If you've got the lowdown on what's hot, I'm all ears.<br>
+Hey there! I'm Ali, 👨‍💻 a Backend Developer with expertise in FastAPI and Python technologies like Pytest and Django. Background in quality control and software testing, showcasing a strong critical thinking process in software development and testing. I am known for my problem-solving prowess and commitment to delivering effective solutions. 🚀<br><br>🚀 I am currently working on fine-tuning my backend wizardry. <br>🤝 I am looking to collaborate on anything that screams excitement in the backend realm.<br>📚 I am currently learning Celery 👷, and CI/CD ⚙️, and constantly honing my backend skills. 🌐<br>🔍 I am looking for help with staying on top of the latest backend tech trends. If you've got the lowdown on what's hot, I'm all ears.<br>
 
 
 ## 🌐 Socials:
@@ -32,6 +32,8 @@ Hey there! I'm Ali, 👨‍💻 a Backend Developer with expertise in FastAPI an
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="30" alt="rabbitmq logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="30" alt="pytest logo"  />
   <img width="12" />
